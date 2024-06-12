@@ -49,21 +49,21 @@ Ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/my-auth-app.git
-   cd my-auth-app
+   git clone https://github.com/SahilAgrwl/Authentication-System.git
+   cd authentication-system
 
 2. Install dependencies:
    npm install
-   # or
+    or
    yarn install
 
 3.  Running the Development Server
   Start the development server:
   npm run dev
-  # or
+   or
   yarn dev
 
-# For successful login, login credentials are :
+## For successful login, login credentials are :
 1. username : user
 2. password : password
 
@@ -95,7 +95,7 @@ This file contains global styles for the application.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-# Acknowledgements
+## Acknowledgements
 Next.js
 Redux Toolkit
 TypeScript
